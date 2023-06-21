@@ -1,0 +1,4 @@
+name: onlyup
+main: tech.wakame.onlyup.Onlyup
+api-version: 1.19
+version: 1.0-SNAPSHOT
